@@ -1,0 +1,42 @@
+body {
+    background-color: #f3e5d8;
+}
+
+main {
+    background-color: white;
+    padding: 2rem;
+    margin: 18rem;
+    width: 40rem;
+    border-radius: 2rem;
+}
+.recipe {
+    width: 40rem;
+}
+tr {
+    display: flex;
+    gap: 15rem;
+}
+.tabledetails {
+    margin: 2rem;
+    border-bottom: 0.4px solid #e5e5e5;
+}
+
+.Preparation {
+    background-color: #fff7fc;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.Preparation-time {
+    /* background-color:#955971 ; */
+    color: #955971;
+}
+
+.Subtitle {
+    /* background-color: #7d4838; */
+    color: #7d4838;
+}
+
+ol {
+    word-spacing: 0.1rem;
+}
